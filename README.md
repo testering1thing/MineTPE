@@ -4,3 +4,7 @@
 # MineTPE
 This is where Minetpe's files will be stored.
 MineTPE is a Custom verison of Eagletcraft 1.12.2, It can be only played on PC, Maybe moblie but you would need a keyboard & mouse,The main site is https://sites.google.com/hallco.org/minetpe-beta/home?read_current=1 , There is 2 verisons, Minetpe Regular, and MineTPE WASM-GC.
+
+The online verison of MineTPE WASM-GC is at https://testering1thing.github.io/
+
+The online verison of MineTPE Regular is still in development.
