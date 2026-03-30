@@ -8,3 +8,7 @@ MineTPE is a Custom verison of Eagletcraft 1.12.2, It can be only played on PC, 
 The online verison of MineTPE WASM-GC is at https://testering1thing.github.io/
 
 The online verison of MineTPE Regular is still in development.
+____________________________________________________________________________
+3/30/2026
+
+I have bad news, If your school uses ContentKeeper to block sites, MineTPE WASM cannot be accessed, i went to test it today and it showed up as blocked, thats bad.
