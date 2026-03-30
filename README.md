@@ -11,4 +11,4 @@ The online verison of MineTPE Regular is still in development.
 ____________________________________________________________________________
 3/30/2026
 
-I have bad news, If your school uses ContentKeeper to block sites, MineTPE WASM cannot be accessed, i went to test it today and it showed up as blocked, thats bad.
+I have bad news, If your school uses ContentKeeper to block sites, MineTPE WASM cannot be accessed, i went to test it today and it showed up as blocked, thats bad. Welp good luck trying to play it off the regular html, in the xml i made the wasm page the github page that is blocked.
